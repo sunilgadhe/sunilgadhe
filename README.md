@@ -25,7 +25,10 @@ Certified DevOps/Cloud Engineer with expertise in AWS, Azure, and DevOps tools. 
 - **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🎓 Certifications:
-- AWS Solution Architect - AWS SysOps Administrator
+- AWS Solution Architect
+- AWS SysOps Administrator
 - Azure Fundamentals
-- 
-- 
+- The Bits and Bytes of Computer Networking by Google on Coursera 
+- Operating Systems and You: Becoming a Power User by Google on Coursera
+- Crash Course on Python by Google on Coursera
+- Using Python to Interact with the Operating System by Google on Coursera
